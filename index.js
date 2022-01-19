@@ -14,3 +14,4 @@ console.log('mergeBranch');
 console.log('mainMerge 1');
 console.log('addBranch2');
 console.log('mainAdd2');
+console.log('ergjioerjgioer');
